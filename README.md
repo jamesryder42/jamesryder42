@@ -3,7 +3,7 @@
   
 - 👀 I’m interested in learning more about front end development, UI/UX design, cloud computing, and software design.
 
-- 🌱 I’m currently learning programming in C, Node.js, AWS, and much more!
+- 🌱 I’m currently learning C, Node.js, AWS, and much more!
 
 - 💞️ I’m looking for an Internship for the Summer of 2022 where I can learn more and enhance my skills!
 
