@@ -1,11 +1,11 @@
-- 👋 Hi, I’m James! I am a Computer Science student at George Mason University about to start the second semester of my junior year. Aside from learning more about coding and prgramming, 
-  I also enjoy cooking, camping & hiking, reading, and lifting weights. \
+- 👋 Hi, I’m James! I am a recent Computer Science graduate from George Mason University currently seeking full time employment in the Washington DC or Richmond area. Aside from learning more about coding and prgramming, 
+  I also enjoy cooking, camping & hiking, reading, and lifting weights. 
   
-- 👀 I’m interested in learning more about front end development, UI/UX design, cloud computing, and software design.
+- 👀 I’m interested in learning more about front end development, UI/UX design, cloud computing, and software design. Additionally, I've been studying for the CompTIA Security+ certification, as well as AWS Certified Cloud       Practicioner.
 
 - 🌱 I’m currently learning C, Node.js, AWS, and much more!
 
-- 💞️ I’m looking for an Internship for the Summer of 2022 where I can learn more and enhance my skills!
+-I will be uploading moreof my past projects here in the coming days, stay tuned!
 
 - 📫 If you'd like to get in contact, send me an email at jamesryder42@gmail.com.
 
